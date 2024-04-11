@@ -2,8 +2,7 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 
-//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
-// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
+//Link to github repo: https://github.com/azul888/Strategy
 public class Main {
     public static void main(String[] args) {
         HashMap<String, Integer> items = new HashMap<>();
