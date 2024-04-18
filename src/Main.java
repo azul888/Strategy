@@ -1,3 +1,10 @@
+/**
+ * Represents the main entry point for the program
+ * the use of monsters and items within a potential game context.
+ *
+ * @author Saul Huerta JR
+ * @version 1.0
+ */
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
